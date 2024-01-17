@@ -1,0 +1,9 @@
+{
+	"type": "module",
+	"dependencies": {
+		"dotenv": "^16.3.1",
+		"inquirer": "^9.2.12",
+		"node-fetch": "^3.3.2",
+		"node-sprite-generator": "^0.10.2"
+	}
+}
